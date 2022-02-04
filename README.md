@@ -10,11 +10,11 @@
 ## About
 
 
-# making
+# Making
 
 ## Version
 
-### 例: 9.1a
+### Example: 9.1a
 
 * **9.1dev**
   * プラグインのバージョン
